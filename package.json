@@ -1,26 +1,29 @@
 {
-  "name": "gh-repo",
-  "version": "1.0.0",
-  "description": "A very simple node.js library to get a Github repository information",
-  "main": "index.js",
-  "scripts": {
-    "test": "./node_modules/jshint/bin/jshint test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gmontalvoriv/gh-repo.git"
-  },
-  "keywords": [
-    "github",
-    "repos"
-  ],
-  "author": "Gabriel Montalvo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gmontalvoriv/gh-repo/issues"
-  },
-  "homepage": "https://github.com/gmontalvoriv/gh-repo#readme",
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  }
+    "name": "gh-repo",
+    "version": "1.0.0",
+    "description": "A very simple node.js library to get a Github repository information",
+    "main": "index.js",
+    "devDependencies": {
+        "jshint": "^2.8.0"
+    },
+    "scripts": {
+        "test": "./node_modules/jshint/bin/jshint test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gmontalvoriv/gh-repo.git"
+    },
+    "keywords": [
+        "github",
+        "repos"
+    ],
+    "author": "Gabriel Montalvo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gmontalvoriv/gh-repo/issues"
+    },
+    "homepage": "https://github.com/gmontalvoriv/gh-repo#readme",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
