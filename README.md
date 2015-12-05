@@ -1,5 +1,6 @@
-> Get a Github repository's info
+[![Build Status](https://travis-ci.org/gmontalvoriv/gh-repo.svg)](https://travis-ci.org/gmontalvoriv/gh-repo)
 
+> Get a Github repository's info 
 
 ## Install
 
