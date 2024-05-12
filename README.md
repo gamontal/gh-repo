@@ -1,3 +1,5 @@
+## ⚠️ This repository is no longer maintained.
+
 # gh-repo [![Build Status](https://travis-ci.org/gmontalvoriv/gh-repo.svg)](https://travis-ci.org/gmontalvoriv/gh-repo)
 
 > Get a Github repository's info 
